@@ -2,5 +2,13 @@ body{
 color: rgba(226, 217, 235, 0.856);/*cor da fonte*/
 background-color: blueviolet;/*cor de fundo*/
 font-size: 24px;/*tamanho da fonte*/
+  }                                                                                                                                   
+header{ 
+ 
+border: solid 2px pink;/*borda solida de px*/
 
-}
+  }
+
+
+
+
