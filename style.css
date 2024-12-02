@@ -8,7 +8,11 @@ header{
 border: solid 2px pink;/*borda solida de px*/
 padding: 20px;/*espaçamento*/
  font-size:32px;/*tamanho da fonte*/                       
- }
+ section{  
+background-color:red;
+padding-bottom: 80px;
+
+}
 
 
 
